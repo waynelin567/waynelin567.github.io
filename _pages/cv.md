@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-# Education   
+## Education   
 * Ph.D in EECS, UC Berkeley, present   
 * B.S. in EE, National Taiwan University, 2019    
 
