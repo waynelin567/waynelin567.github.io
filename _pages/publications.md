@@ -5,12 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+- [Computation-Performance Optimization of Convolutional Neural Networks With Redundant Filter Removal](https://https://waynelin567.github.io/files/CPO.pdf)    
+Chih-Ting Liu, **Tung-Wei Lin**, Yi-Heng Wu, Yu-Sheng Lin, Heng Lee, Yu Tsao, and Shao-Yi Chien.    
+*IEEE Transactions on Circuits and Systems I: Regular Papers 66, no. 5 (2018): 1908-1921.*
