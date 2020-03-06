@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 ## Education   
-* Ph.D in EECS, UC Berkeley, present   
+* Ph.D. student in EECS, UC Berkeley, present   
 * B.S. in EE, National Taiwan University, 2019    
 
 ## Work experience   
