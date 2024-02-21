@@ -4,6 +4,10 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+#### 2022 
+- [Class-Wise Thresholding for Robust Out-Of-Distribution Detection](https://waynelin567.github.io/files/class.pdf)    
+Guarrera, Matteo, Baihong Jin, **Tung-Wei Lin**, Maria A. Zuluaga, Yuxin Chen, and Alberto Sangiovanni-Vincentelli
+*IEEE/CVF Conf. on Computer Vision and Pattern Recognition (CVPR) Workshops 2022*
 
 #### 2020 
 - [Routing Topology and Time-Division Multiplexing Co-Optimization for Multi-FPGA Systems](https://waynelin567.github.io/files/FPGA_TDM.pdf)    
