@@ -6,7 +6,6 @@ author_profile: true
 ---
 #### 2024 
 - [CausalPrompt: Enhancing LLMs with Weakly Supervised Causal Reasoning for Non-Language Applications](https://waynelin567.github.io/files/causal.pdf)    
-Guarrera, Matteo, Baihong Jin, **Tung-Wei Lin**, Maria A. Zuluaga, Yuxin Chen, and Alberto Sangiovanni-Vincentelli
 **Tung-Wei Lin**\*, Vanshaj Khattar\*, Yuxuan Huang\*, Junho Hong, Ruoxi Jia, Chen-Ching Liu, Alberto Sangiovanni-Vincentelli, Ming Jin
 *In ICLR Workshop: Tackling Climate Change with Machine Learning, 2024*
 
