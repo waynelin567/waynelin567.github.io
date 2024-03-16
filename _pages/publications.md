@@ -29,3 +29,6 @@ Ya-Chu Chang, **Tung-Wei Lin**, Iris Hui-Ru Jiang, and Gi-Joon Nam.
 Chih-Ting Liu, **Tung-Wei Lin**, Yi-Heng Wu, Yu-Sheng Lin, Heng Lee, Yu Tsao, and Shao-Yi Chien.    
 *IEEE Transactions on Circuits and Systems I: Regular Papers 66, no. 5 (2018): 1908-1921.*
 
+#### *Preprints*   
+- [Model Residuals as Shields: A Bilevel Formulation to Defend Smart Grids from Poisoning Attacks](https://waynelin567.github.io/files/res.pdf)    
+**Tung-Wei Lin**, Padmaksha Roy, Yi Zeng, Ming Jin, Ruoxi Jia, Chen-Ching Liu, Alberto Sangiovanni-Vincentelli.   
