@@ -12,6 +12,10 @@ redirect_from:
 * B.S. in EE, National Taiwan University, 2019    
 
 ## Work experience   
+* Summer 2024: Summer Intern
+  * Lawrence Berkeley National Laboratory
+  * Supervisor: Dr. Tianzhen Hong
+
 * Summer 2019: Research Assistant
   * National Taiwan University IRISLAB    
   * Supervisor: Professor Iris Hui-Ru Jiang
@@ -20,6 +24,7 @@ redirect_from:
   * Deep Learning Intern    
 
 ## Teaching
+* 2024 Fall Optimization Models in Engineering
 * 2024 Spring Optimization Models in Engineering
 * 2021 Fall Introduction to Embedded Systems 
   
